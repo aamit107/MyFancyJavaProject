@@ -1,5 +1,5 @@
 class Circle {
-    public void draw() {
+    public void paint() {
         System.out.println("draw circle");
     }
 }
